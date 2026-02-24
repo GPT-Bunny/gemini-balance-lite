@@ -1,0 +1,2 @@
+# _redirects 文件
+/v1beta/*  /.netlify/functions/server  200
